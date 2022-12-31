@@ -34,36 +34,7 @@ a {
 }
 
 /* Home */
-.navbar {
-    position: fixed;
-    width: 100vw;
-    border-bottom: 2px solid white;
-}
 
-.nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    height: 55px;
-    color: white;
-    background-color: black;
-    padding: 0px 40px 0px 30px;
-}
-
-.links ul {
-    display: flex;
-    gap: 30px;
-    list-style: none;
-} 
-
-a {
-    text-decoration: solid;
-    color: white;
-}
-
-/* End Of Navigation Bar */
-
-/* Home */
 #home {
     height: 900px;
     background-color: black;
